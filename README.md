@@ -1,7 +1,7 @@
 # WIL Project – Group 78
 
 ## Project
-WIL Project – Test-Driven RAG
+WIL Project – Victoria Road Rules Assistant RAG
 
 ## Group Information
 - **Group ID:** 78
